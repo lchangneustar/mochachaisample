@@ -29,7 +29,7 @@ describe('Nprway',function(){
 });
 
 describe('asdf', function(){
-	it('asdf', function(done){zxzdfe      
+	it('asdf', function(done){      
 		$data.expect(200);
 		done();
 	})
